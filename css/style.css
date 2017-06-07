@@ -42,7 +42,12 @@ p {
     margin: 20px 0;
     padding: 20px 0;
 }
-
+#rodape img{
+    margin-right: 30px;
+    margin-left: 10px;
+    vertical-align: middle;
+    width: 64px;
+}
 #fig1{
     width: 350px;
     float: right;
